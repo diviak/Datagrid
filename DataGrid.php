@@ -16,6 +16,7 @@
 class DataGrid extends Control implements IDataGrid
 {
 	/**
+	 * Counter instances of class
 	 * @var int
 	 */
 	static private $counter = 0; 
